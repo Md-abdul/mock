@@ -319,6 +319,21 @@
         "image": "https://picsum.photos/200",
         "price": 3500,
         "category": "homedecor"
+      },
+      {
+        "id": 41,
+        "brand": "test1",
+        "title": "Set of 3 Owl",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPfO37MK81JIyR1ptwqr_vYO3w4VR-iC2wqQ&usqp=CAU",
+        "price": 3500,
+        "category": "women"
+      },{
+        "id": 42,
+        "brand": "test2",
+        "title": "Set of 3 Owl",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPfO37MK81JIyR1ptwqr_vYO3w4VR-iC2wqQ&usqp=CAU",
+        "price": 3500,
+        "category": "men"
       }
     ]
   }
